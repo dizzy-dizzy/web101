@@ -3,8 +3,8 @@ body{
     margin: 0;
     padding:0;
     font-family: sans-serif;
-    background:url(Images/image3.jpg) no-repeat;
-    background-color: aliceblue;
+/*     background:url(Images/image3.jpg) no-repeat; */
+    background-color: grey;
     background-size: cover;
 
 }
