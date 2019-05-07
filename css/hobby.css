@@ -13,7 +13,7 @@ div.gallery:hover {
 
 div.gallery img {
     width: 100%;
-    height: auto;
+    height: 200px;
 }
 
 figcaption.desc {
@@ -29,5 +29,5 @@ figcaption.desc {
 .responsive {
     padding: 0 6px;
     float: left;
-    width: 24.99999%;
+    width: 26.5%;
 }
