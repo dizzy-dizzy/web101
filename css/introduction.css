@@ -1,0 +1,6 @@
+body {
+  background-color: black; 
+  //background-image: url("image/image1.jpg");
+  background-size: contain;
+}
+

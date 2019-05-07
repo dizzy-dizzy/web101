@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+    <body>
+    <p>
+        <b>Kyoto</b>
+        <i>Kyoto</i>
+        <u>Kyoto</u>
+        2<sup>3</sup> is 8. The cube of 2 is 8.<hr/>
+        H<sub>2</sub>O<hr/>
+        <abbr title = "The Kyoto College of Graduate Studies for Informatics">KCGI</abbr>
+    </p>
+    <p><address>
+    <a href="mailto:fairoza@kcg.ac.jp">fairoza@kcg.ac.jp</a><br/>
+    The Kyoto College of Graduate Studies for Informatics</p>
+    </body>
+</html>

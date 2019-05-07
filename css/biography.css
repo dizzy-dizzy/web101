@@ -1,0 +1,15 @@
+article {
+    text-align: justify;
+}
+
+body {
+    background-color: black;
+    //background-image: url("image/image1.jpg");
+    background-size: contain;
+}
+#test{
+    width: 300px;
+    height: 300px;
+    position: sticky;
+    float: left;
+}
