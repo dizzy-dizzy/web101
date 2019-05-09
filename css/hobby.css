@@ -16,17 +16,13 @@ div.gallery img {
     height: 200px;
 }
 
-figcaption.desc {
+figcaption.size {
     padding: 15px;
     text-align: center;
     color: whitesmoke;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-.responsive {
+.viewblock {
     padding: 0 6px;
     float: left;
     width: 26.5%;
